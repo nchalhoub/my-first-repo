@@ -1,28 +1,18 @@
-# This is a large heading
+# Nancy Chalhoub
 
-## This is a smaller heading
+### Home
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Lebanon
 
-- This is
-- an unordered
-- list
+### Favorite food
 
-1. This is
-2. an ordered
-3. list
+My favorite plate is lasagna
 
-Here is `some code` in the middle of a sentence.
+### Favorite book
 
-```
-This is
-a block
-of code
-```
+- *Man's search for meaning*, by **victor Frankl**
+- *The last lecture*, by **Randy Pausch**
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is [on Twitter](https://twitter.com/nancychalhoub).
